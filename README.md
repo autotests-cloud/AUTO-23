@@ -25,11 +25,9 @@
 - Поиск запускается из CI системы Jenkins
 - Для контейнеризации запусков использован Selenoid
 - Для каждого запуска создается отчет Allure reports (автоматически добавляются скриншоты и видео прохождения тестов)
-- Отчеты загружаются в TMS - Allure TestOps
 
 ## Ссылки
 ### Jenkins
 https://jenkins.autotests.cloud/job/AUTO-23/
-### Allure reports
-https://jenkins.autotests.cloud/job/AUTO-23/
-
+### Allure report
+https://jenkins.autotests.cloud/job/AUTO-23/2/allure/
